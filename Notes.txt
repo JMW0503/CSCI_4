@@ -1,0 +1,27 @@
+"Basic Unix commands"
+Get familiar with changing directories, unix commands, etc.
+
+Algorithm: a series of step by step instructions to perform a task.
+
+Primitive Data Type- Data type innate to the programming language
+    Python:
+        -Int:Integer
+        -Float: floating point number (ex: 3.14)
+        -String: holds series of characters
+        -Boolean: Boolean information (True/False)
+
+Flowcharts
+    Flowchart- mapping out a thought process. (visual Algorithm)
+    Symbols
+        -Oval: Start
+        -Rectangle: process
+        -Parallelogram: Input/Output
+        -Diamond: Conditional
+
+
+Function Anatomy:
+    -Def
+    -Name
+    -Parameter list
+    -Body
+    -

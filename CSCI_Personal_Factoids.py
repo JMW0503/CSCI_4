@@ -1,0 +1,1 @@
+print("Justin Wilson\n" , "Favorite Fictional Character: Iron Man\n" , "Least Favorite Food: Avacado\n" , "Star Trek or Star Wars: Star Wars")

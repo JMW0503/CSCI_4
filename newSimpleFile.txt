@@ -1,0 +1,4 @@
+This is the NEW first line of the list!
+here's the first line of the file
+second line of the file
+another cool line
